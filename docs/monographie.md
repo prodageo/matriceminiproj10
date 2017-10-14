@@ -10,7 +10,11 @@ consigne: http://prodageo.insa-rouen.fr/wiki/pmwiki.php?n=CASI.EXA9024monographi
    - Nom équipe 1
      - Nom, prénom et pseudo Github membre 1
      - Nom, prénom et pseudo Github membre 2
-
+     - ...
+   - Nom équipe 2
+     - Nom, prénom et pseudo Github membre 1
+     - ...
+   - ...
 ## Partie A
 
 ### A0 : Introduction.
