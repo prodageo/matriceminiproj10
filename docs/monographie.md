@@ -8,11 +8,11 @@ consigne: http://prodageo.insa-rouen.fr/wiki/pmwiki.php?n=CASI.EXA9024monographi
  - Nom de l'alliance
  - Liste des équipes
    - Nom équipe 1
-     - Nom, prénom et pseudo Github membre 1
-     - Nom, prénom et pseudo Github membre 2
+     - Nom, prénom et pseudo Github membre 1-1
+     - Nom, prénom et pseudo Github membre 1-2
      - ...
    - Nom équipe 2
-     - Nom, prénom et pseudo Github membre 1
+     - Nom, prénom et pseudo Github membre 2-1
      - ...
    - ...
 ## Partie A
