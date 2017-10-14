@@ -1,6 +1,15 @@
-consigne: http://prodageo.insa-rouen.fr/casi/pdf/EXA9024.mini_projet.enonce.pdf
+consigne: http://prodageo.insa-rouen.fr/wiki/pmwiki.php?n=CASI.EXA9024monographie
 ---
 # Monographie - SUJET
+
+## Cartouche
+
+ - Code du sujet
+ - Nom de l'alliance
+ - Liste des équipes
+  - Nom équipe 1
+   - Nom, prénom et pseudo Github membre 1
+   - Nom, prénom et pseudo Github membre 2
 
 ## Partie A
 
