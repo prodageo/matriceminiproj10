@@ -1,3 +1,4 @@
+---
 consigne: http://prodageo.insa-rouen.fr/wiki/pmwiki.php?n=CASI.EXA9024monographie
 ---
 # Monographie - SUJET
