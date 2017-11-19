@@ -13,7 +13,7 @@ $endfor$
 $if(toc)$
 $if(toc-title)$
 # $toc-title$
-$endif$
+$else$
 # Table des matières
 $endif$
 
