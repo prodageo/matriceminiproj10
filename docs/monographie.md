@@ -40,7 +40,8 @@ consigne: http://prodageo.insa-rouen.fr/wiki/pmwiki.php?n=CASI.EXA9024monographi
 
 ### B2. Solutions technologiques concurrentes
 
-### B3. Description technique des solutions à comparer
+### B3. Solutions retenues
+Pour chaque solution retenue (une solution par équipe de l'alliance), indiquer l'équipe qui prend en charge et fournir une description technique synthétique.
 
 ### B4. Liste de métriques
 
