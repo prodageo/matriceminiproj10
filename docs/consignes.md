@@ -26,42 +26,42 @@ département ASI
 # Résultats attendus (deliverables)
 
 ## Monographie - Partie A
- A0 : texte synthétique. On précisera notamment si ce projet a pour but d’améliorer un
+ - A0 : texte synthétique. On précisera notamment si ce projet a pour but d’améliorer un
 processus ou un produit.
- A1. liste de 10 mots-clés
- A2. webographie de 3 sites qualifiés
- A3. bibliographie de 3 livres avec la mise en exergue des sections qui vous semblent
+ - A1. liste de 10 mots-clés
+ - A2. webographie de 3 sites qualifiés
+ - A3. bibliographie de 3 livres avec la mise en exergue des sections qui vous semblent
 pertinentes dans la table des matières
- A4. liste des trois grandes organisations dans le secteur de cette technique (qu’ils
+ - A4. liste des trois grandes organisations dans le secteur de cette technique (qu’ils
 soient des organisme de standardisation, des communautés du logiciels libres ou des
 sociétés privées), on décrira chaque organisation en une dizaine de lignes et on
 montrera sa contribution à la technique étudiée. Au moins une des organisations doit
 mettre à disposition un livre blanc sur le sujet étudié
- A5. liste de 3 sous-caractéristiques prises parmi les 21 de ISO9126 (qu’on appelle
+ - A5. liste de 3 sous-caractéristiques prises parmi les 21 de ISO9126 (qu’on appelle
 aussi critères chez McCall) auquel répond cette technique, et ce tout particulièrement
 dans le contexte indiqué.
- A6. Liste d’au moins deux indicateurs de base (ou mesures au sens ISO9126) et d’au
+ - A6. Liste d’au moins deux indicateurs de base (ou mesures au sens ISO9126) et d’au
 moins un indicateur dérivé pour chacun des trois facteurs/sous-facteurs identifiés dans
 la question A5.
- A7. Structurer les différentes références du référentiel théorique (ainsi que les
+ - A7. Structurer les différentes références du référentiel théorique (ainsi que les
 références que vous avez identifiées). Dans le cas où le référentiel théorique
 comprend un (voire des) catalogue(s) de patterns, on précisera notamment la liste des
 thématiques (problem area) ainsi que la grille de présentation des patterns (les
 rubriques de la description d’un pattern, et leur sémantique). 
 
 ## Monographie - Partie B
- B1. texte de 2 à 3 pages qui montre les principales caractéristiques des approches
+ - B1. texte de 2 à 3 pages qui montre les principales caractéristiques des approches
 techniques sur le sujet (on utilisera de manière privilégiée les patterns pour étayer la
 description)
- B2. liste des solutions technologiques concurrentes mettant en œuvre une des
+ - B2. liste des solutions technologiques concurrentes mettant en œuvre une des
 approches techniques (de manière plus ou moins explicite), et parmi cette liste, le
 choix de deux solutions technologies Y et Z pour prototypage. Pour les solutions 
 choisies, assurez-vous que vous êtes bien en mesure de les mettre en œuvre (prérequis
 accessibles, licences d’évaluation disponibles en cas de modèle payant, …)
- B3. description technique des deux solutions choisies (X et Y)
- B4. liste de métriques permettant de comparer (benchmarker) les deux solutions
+ - B3. description technique des deux solutions choisies (X et Y)
+ - B4. liste de métriques permettant de comparer (benchmarker) les deux solutions
 choisies tout particulièrement sur les facteurs retenus en conclusion de la partie A
- B5. découpage en tâches (Work Breakdown Structure) montrant comment vous allez
+ - B5. découpage en tâches (Work Breakdown Structure) montrant comment vous allez
 parvenir à réaliser deux prototypes. 
 Partie C
 o C1. Description de l’architecture mise en place pour réaliser une expérience
@@ -73,7 +73,7 @@ ensemble, une granularité cohérente.
 o C2 : idem à C1 appliqué sur Y (décrire l'architecture technique du test, sachant que
 description technique de la solution a été réalisée en B
 o Remarque générale
- citez vos sources : vous avez probablement utilisé quelques ressources (billet dans des
+ - citez vos sources : vous avez probablement utilisé quelques ressources (billet dans des
 blogs, tutoriels, …) sur le web pour rédiger votre monographie. 
 
 ## Prototype pY 
