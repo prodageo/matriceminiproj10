@@ -76,6 +76,19 @@ o Remarque générale
  - citez vos sources : vous avez probablement utilisé quelques ressources (billet dans des
 blogs, tutoriels, …) sur le web pour rédiger votre monographie. 
 
+## Monographie - Partie C
+ - C1. Description de l’architecture mise en place pour réaliser une expérience
+permettant sur la solution technique X de mesurer les indicateurs contribuant à la
+comparaison. Par description de l’architecture est entendu un diagramme de déploiement (au
+sens UML) faisant apparaître le(s) noeud(s) matériel(s), les composants ainsi que les artefacts
+utilisés par les composants. On veillera à ce que les composants présentés aient, dans leur
+ensemble, une granularité cohérente.
+ - C2 : idem à C1 appliqué sur Y (décrire l'architecture technique du test, sachant que
+description technique de la solution a été réalisée en B
+ - Remarque générale
+   - citez vos sources : vous avez probablement utilisé quelques ressources (billet dans des
+blogs, tutoriels, …) sur le web pour rédiger votre monographie. 
+
 ## Prototype pY 
 avec la technologie Y sélectionnée
 
