@@ -1,5 +1,5 @@
 ---
-consigne: http://prodageo.insa-rouen.fr/wiki/pmwiki.php?n=CASI.EXA9024monographie
+consigne: http://prodageo.insa-rouen.fr/casimono/sujetprojsite/consignes.html
 ---
 # Monographie - SUJET
 
