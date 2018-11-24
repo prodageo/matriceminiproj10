@@ -41,10 +41,8 @@ consigne: http://prodageo.insa-rouen.fr/casimono/sujetprojsite/consignes.html
 ### B2. Solutions technologiques concurrentes
 
 ### B3. Solutions retenues
-Pour chaque solution retenue (une solution par équipe de l'alliance), indiquer l'équipe qui prend en charge et fournir une description technique synthétique.
 
 ### B4. Liste de métriques
-Dans la partie A6, des métriques ont pu être pré-sélectionnées. Il s'agit dans cette partie B4 de s'interroger sur la faisabilité de la mesure des métriques et pour celles qui seront retenues (de l'ordre de 3) de décrire dans le détail la procédure de mesure.
 
 ### B5. Découpage (WBS) pour réalisation des prototypes
 
