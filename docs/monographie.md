@@ -1,19 +1,19 @@
 ---
 consigne: http://prodageo.insa-rouen.fr/casimono/sujetprojsite/consignes.html
 ---
-# Monographie - SUJET
+# Monographie - {TITRE DU SUJET}
 
 ## Cartouche
 
- - Code du sujet
- - Nom de l'alliance
+ - Code du sujet : 
+ - Nom de l'alliance : {_(if any)_}
  - Liste des équipes
-   - Nom équipe 1
-     - Nom, prénom et pseudo Github membre 1-1
-     - Nom, prénom et pseudo Github membre 1-2
+   - {Code équipe issu de Moodle } - {Nom équipe 1 _(if any)_}
+     - { Nom }, {prénom} ({pseudo Github membre 1-1})
+     - { Nom }, {prénom} ({pseudo Github membre 1-2})
      - ...
-   - Nom équipe 2
-     - Nom, prénom et pseudo Github membre 2-1
+   - {Nom équipe 2}
+     - { Nom }, {prénom} ({pseudo Github membre 1-1})
      - ...
    - ...
 ## Partie A
