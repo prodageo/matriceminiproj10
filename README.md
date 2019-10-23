@@ -7,4 +7,4 @@ Fichiers fournis dans la matrice (par ordre d'importance descendante)
  - docs/miniproj.tpl : ce fichier est une astuce pour publier votre monographie avec une table des matières
 
 ## Consignes
-Les consignes, notamment sur chacune des rubriques de la monographie, sont indiquées sur la page dédiée sur [le site du mini-projet](http://prodageo.insa-rouen.fr/casimono/sujetprojsite/consignes.html).
+Les consignes, notamment sur chacune des rubriques de la monographie, sont indiquées sur la page dédiée sur [le site du mini-projet](http://prodageo.insa-rouen.fr/casimono/sujetprojmd/consignes.html).
