@@ -1,5 +1,5 @@
 ---
-consigne: http://prodageo.insa-rouen.fr/casimono/sujetprojsite/consignes.html
+consigne: http://prodageo.insa-rouen.fr/casimono/sujetprojmd/consignes.html
 ---
 # Monographie - {TITRE DU SUJET}
 
