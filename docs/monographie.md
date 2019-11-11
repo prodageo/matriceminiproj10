@@ -5,8 +5,8 @@ consigne: http://prodageo.insa-rouen.fr/casimono/sujetprojmd/consignes.html
 
 ## Cartouche
 
- - Code du sujet : 
- - Nom de l'alliance : {_(if any)_}
+ - Code du sujet : nnx (nn : 2 chiffres, x : une lettre) - exemple : 60A 
+ - Code de l'alliance : aaaasnnx (aaaa : année, s : saison, nnx : code du sujet) - exemple : 2019A60A
  - Liste des équipes
    - {Code équipe issu de Moodle } - {Nom équipe 1 _(if any)_}
      - { Nom }, {prénom} ({pseudo Github membre 1-1})
